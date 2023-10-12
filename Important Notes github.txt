@@ -1,0 +1,13 @@
+1. Clone -> buat ambil repository
+cmd:
+git clone https://github.com/SitanayaIvan/cms_fofi.git
+
+2. Push-> buat upload atau publish
+cmd:
+- git add .
+- git commit -m "message"
+- git push origin main
+
+3. Pull -> buat narik perubahan
+cmd:
+git pull origin main
