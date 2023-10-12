@@ -1,4 +1,4 @@
-1. Clone -> buat ambil repository
+1. Clone -> ambil repository
 cmd:
 git clone https://github.com/SitanayaIvan/cms_fofi.git
 
